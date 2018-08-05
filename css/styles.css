@@ -31,3 +31,9 @@ hr {
 p {
     color: black;
 }
+.collapse {
+    background-color: lightcyan;
+}
+nav.navbar a {
+    font-size: 2em;
+}
